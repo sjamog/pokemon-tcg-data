@@ -1,0 +1,924 @@
+[
+  {
+    "id": "mep-94",
+    "name": "Alolan Exeggutor",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "150",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Exeggcute",
+    "abilities": [
+      {
+        "name": "Scale Up",
+        "text": "If this Pokémon has 6 or more Grass Energy attached, it gets +250 HP.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Mega Drain",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "150",
+        "text": "Heal 50 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "94",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      103
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-95",
+    "name": "Lucario",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Riolu",
+    "attacks": [
+      {
+        "name": "Aura Sphere",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "This attack also does 60 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "95",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      448
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-96",
+    "name": "Moltres",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Fire"
+    ],
+    "abilities": [
+      {
+        "name": "Fiery Flapping",
+        "text": "Once during your turn, if you have Articuno and Zapdos in play, you may use this Ability. Attach a Basic Fire Energy card from your hand to this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Fire Spin",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "Discard 2 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "96",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      146
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-97",
+    "name": "Articuno",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Water"
+    ],
+    "abilities": [
+      {
+        "name": "Frosty Flapping",
+        "text": "Once during your turn, if you have Moltres and Zapdos in play, you may use this Ability. Attach a Basic Water Energy card from your hand to this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Hail",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "This attack does 30 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "97",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      144
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-98",
+    "name": "Zapdos",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Lightning"
+    ],
+    "abilities": [
+      {
+        "name": "Flash-Pop Flapping",
+        "text": "Once during your turn, if you have Moltres and Articuno in play, you may use this Ability. Attach a Basic Lightning Energy card from your hand to this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Thundering Lightning",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "210",
+        "text": "This Pokémon also does 60 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "98",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      145
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-99",
+    "name": "Greninja ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2",
+      "ex"
+    ],
+    "hp": "300",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Frogadier",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Stealthy Slash",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 30 damage to 1 of your opponent's Pokémon for each damage counter on that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Aqua Edge",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "160",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "99",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      658
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-100",
+    "name": "Sylveon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ],
+    "hp": "270",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Eevee",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Colorful Harmony",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50×",
+        "text": "This attack does 50 damage for each type of Basic Energy attached to all of your Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "100",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      700
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-101",
+    "name": "Nidorina",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Nidoran♀",
+    "abilities": [
+      {
+        "name": "Share Happiness",
+        "text": "Once during your turn, you may use this Ability. Heal 30 damage from 1 of your Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Bite",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "101",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      30
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-102",
+    "name": "Victini",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Call for Family",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+      },
+      {
+        "name": "V-Flame",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "102",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      494
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-103",
+    "name": "Zeraora",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "110",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Rapid Draw",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Draw a card."
+      },
+      {
+        "name": "Electrobullet",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "103",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      807
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-104",
+    "name": "Mewtwo",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Empower",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Basic Energy cards from your discard pile to 1 of your Pokémon."
+      },
+      {
+        "name": "Psydrive",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "Discard an Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "104",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      150
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-105",
+    "name": "Mew",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Psychic",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "105",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      151
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-106",
+    "name": "Ditto",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Surprisingly Transform",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Flip a coin. If heads, search your deck for a Pokémon and switch it with this Pokémon. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon. If you switched a Pokémon in this way, put this card into your deck. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "106",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      132
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-107",
+    "name": "Pikachu ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "190",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Pika-Pika Parade",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for any number of Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+      },
+      {
+        "name": "Thunderbolt",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "Discard all Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "107",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-108",
+    "name": "Espeon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ],
+    "hp": "260",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Eevee",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Solar Beatdown",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "This attack does 30 damage for each of your Pokémon in play."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "108",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      196
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-109",
+    "name": "Pikachu ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "190",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Zip-Zap Frenzy",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "You may attach any number of Basic Energy cards from your hand to your Pokémon in any way you like."
+      },
+      {
+        "name": "Thunder",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "109",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "mep-110",
+    "name": "Umbreon ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ],
+    "hp": "270",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Eevee",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Lunatic Claw",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "100+",
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 140 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "110",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      197
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  }
+]
