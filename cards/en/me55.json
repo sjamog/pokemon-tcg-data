@@ -9147,5 +9147,164 @@
       "small": "https://images.scrydex.com/pokemon/me55-158/small",
       "large": "https://images.scrydex.com/pokemon/me55-158/large"
     }
+  },
+  {
+    "id": "me55-r-rgb",
+    "name": "Mew",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Psychic",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "R/RGB",
+    "artist": "YOSHIROTTEN",
+    "rarity": "RGB Rare",
+    "flavorText": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+    "nationalPokedexNumbers": [
+      151
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "me55-g-rgb",
+    "name": "Mew",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Psychic",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "G/RGB",
+    "artist": "YOSHIROTTEN",
+    "rarity": "RGB Rare",
+    "flavorText": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+    "nationalPokedexNumbers": [
+      151
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
+  },
+  {
+    "id": "me55-b-rgb",
+    "name": "Mew",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Psychic",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "B/RGB",
+    "artist": "YOSHIROTTEN",
+    "rarity": "RGB Rare",
+    "flavorText": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+    "nationalPokedexNumbers": [
+      151
+    ],
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J"
   }
 ]
